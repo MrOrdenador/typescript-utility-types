@@ -1,1 +1,1 @@
-Contenido de mi curso en https://midu.dev
+A course from https://midu.dev/ which teaches you the utility types
